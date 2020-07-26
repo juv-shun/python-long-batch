@@ -13,7 +13,6 @@ autopep8 = "*"
 
 [packages]
 retry = "*"
-mylogging = {git = "https://github.com/juv-shun/mylogging"}
 
 [requires]
 python_version = "3.7"
